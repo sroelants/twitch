@@ -1,0 +1,24 @@
+{
+  "name": "twitch",
+  "version": "1.0.0",
+  "description": "Source files for my twitch.tv viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sroelants/twitch_dev.git"
+  },
+  "keywords": [
+    "twitch.tv",
+    "freecodecamp",
+    "fcc"
+  ],
+  "author": "Sam Roelants",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sroelants/twitch_dev/issues"
+  },
+  "homepage": "https://github.com/sroelants/twitch_dev#readme"
+}
