@@ -1,0 +1,33 @@
+.search-expanded
+  width: 100%
+
+.searchbar
+  width: 0
+  opacity: 0
+  background-color: inherit
+  border: none
+  height: 50px
+  font-size: 20px
+  color: white
+  transition: all 0.3s ease
+  outline: none
+
+.searchbar:active,
+.searchbar:focus
+  outline: none
+
+.searchbar-expanded
+  width: 70%
+  opacity: 1
+  margin-left: 50px
+  margin-right: 50px
+
+.expand,
+.close
+  color: white
+  transition: all 0.3s ease
+
+.expand:hover,
+.close:hover
+  color: $highlight-color
+  cursor: pointer
